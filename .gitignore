@@ -1,2 +1,5 @@
 .vs/
 *.vsdx
+/Queue Manager Server/Queue Manager Data/Queue Manager.Data.csproj
+/Queue Manager Server/Queue Manager Service/Queue Manager.Service.csproj
+/Queue Manager Server/Queue_manager_models/Queue Manager.Models.csproj
