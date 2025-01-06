@@ -5,7 +5,11 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue Manager Server", "Queue Manager Server\Queue Manager Server.csproj", "{9A6A6004-DC4D-4F3A-9CD7-AA263FDC8836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_manager_models", "Queue_manager_models\Queue_manager_models.csproj", "{DA88DFD5-4BE3-42D8-8D86-45E1B662C445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue_manager_models", "Queue_manager_models\Queue_manager_models.csproj", "{DA88DFD5-4BE3-42D8-8D86-45E1B662C445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue Manager Data", "Queue Manager Data\Queue Manager Data.csproj", "{F703C743-2E5C-4B53-99C6-D6ED5D454F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue Manager Service", "Queue Manager Service\Queue Manager Service.csproj", "{8E2ED667-7132-4D18-9ABD-BA6A01E1B6D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DA88DFD5-4BE3-42D8-8D86-45E1B662C445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA88DFD5-4BE3-42D8-8D86-45E1B662C445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA88DFD5-4BE3-42D8-8D86-45E1B662C445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F703C743-2E5C-4B53-99C6-D6ED5D454F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F703C743-2E5C-4B53-99C6-D6ED5D454F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F703C743-2E5C-4B53-99C6-D6ED5D454F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F703C743-2E5C-4B53-99C6-D6ED5D454F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2ED667-7132-4D18-9ABD-BA6A01E1B6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2ED667-7132-4D18-9ABD-BA6A01E1B6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2ED667-7132-4D18-9ABD-BA6A01E1B6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2ED667-7132-4D18-9ABD-BA6A01E1B6D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
