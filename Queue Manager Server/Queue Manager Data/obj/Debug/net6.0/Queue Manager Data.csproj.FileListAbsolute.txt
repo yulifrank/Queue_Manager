@@ -1,0 +1,12 @@
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\bin\Debug\net6.0\Queue Manager Data.deps.json
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\bin\Debug\net6.0\Queue Manager Data.dll
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\bin\Debug\net6.0\Queue Manager Data.pdb
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.AssemblyInfo.cs
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.dll
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\refint\Queue Manager Data.dll
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\Queue Manager Data.pdb
+C:\Users\user1\Documents\רבקי לימודים\Queue_Manager\Queue Manager Server\Queue Manager Data\obj\Debug\net6.0\ref\Queue Manager Data.dll

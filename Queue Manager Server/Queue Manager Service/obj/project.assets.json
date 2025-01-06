@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\רבקי לימודים\\Queue_Manager\\Queue Manager Server\\Queue Manager Service\\Queue Manager Service.csproj",
-      "projectName": "Queue Manager Service",
-      "projectPath": "C:\\Users\\user1\\Documents\\רבקי לימודים\\Queue_Manager\\Queue Manager Server\\Queue Manager Service\\Queue Manager Service.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\רבקי לימודים\\Queue_Manager\\Queue Manager Server\\Queue Manager Service\\Queue Manager.Service.csproj",
+      "projectName": "Queue Manager.Service",
+      "projectPath": "C:\\Users\\user1\\Documents\\רבקי לימודים\\Queue_Manager\\Queue Manager Server\\Queue Manager Service\\Queue Manager.Service.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user1\\Documents\\רבקי לימודים\\Queue_Manager\\Queue Manager Server\\Queue Manager Service\\obj\\",
       "projectStyle": "PackageReference",
