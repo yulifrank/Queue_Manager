@@ -428,24 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user1\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\user1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות שנה ג\\פרויקטים שונים\\Queue Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj",
       "projectName": "Queue Manager Server",
-      "projectPath": "C:\\Users\\user1\\Documents\\תכנות שנה ג\\פרויקטים שונים\\Queue Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\תכנות שנה ג\\פרויקטים שונים\\Queue Manager\\Queue Manager Server\\Queue Manager Server\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -500,7 +495,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

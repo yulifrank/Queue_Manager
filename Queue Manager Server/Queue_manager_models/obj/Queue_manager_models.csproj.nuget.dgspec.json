@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj": {}
+    "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue_manager_models\\Queue_manager_models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj": {
+    "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue_manager_models\\Queue_manager_models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj",
-        "projectName": "Queue Manager Server",
-        "projectPath": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\Queue Manager Server.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue_manager_models\\Queue_manager_models.csproj",
+        "projectName": "Queue_manager_models",
+        "projectPath": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue_manager_models\\Queue_manager_models.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue Manager Server\\obj\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\projects\\Queue_Manager\\Queue Manager Server\\Queue_manager_models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,12 +44,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.4.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -62,9 +56,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
